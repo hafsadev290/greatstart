@@ -44,6 +44,15 @@ const Main = () => {
                                 I like to be challenged while working on new projects; it allows me to discover and learn more.
                             </p>
                         </div>
+
+                        <div className="mb-4">
+                            <span>
+                            💪
+                            </span>
+                            <p className="inline ml-4 ">
+                                I'm good at developing automatic scripts (i.e. web scraping) and building dashboards using MS Power BI.
+                            </p>
+                        </div>
                         
                     </div>
                 </div>
